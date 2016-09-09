@@ -6,6 +6,7 @@
     <groupId>pentaho</groupId>
     <artifactId>cpf-plugin</artifactId>
     <version>7.0-SNAPSHOT</version>
+    <relativePath>../pom.xml</relativePath>
   </parent>
   <artifactId>cpf-core</artifactId>
   <version>7.0-SNAPSHOT</version>
